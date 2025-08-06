@@ -3,3 +3,4 @@
 para ejjecutar el sistema debe sopner 
 
 ```npm install react```
+sistema de regustro 2
